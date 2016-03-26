@@ -25,7 +25,14 @@ R09
 
 R10
 
+R11
+
+R12
 
 
 
+
+
+working on 
+%cp RplotsOriginal.pdf Rplots.pdf
 
