@@ -1,0 +1,48 @@
+demo(error.catching)          More examples on catching and handling errors
+demo(is.things)               Explore some properties of R objects and
+                        is.FOO() functions. Not for newbies!
+demo(recursion)               Using recursion for adaptive integration
+demo(scoping)                 An illustration of lexical scoping.
+
+Demos in package ‘grDevices’:
+
+demo(colors)                  A show of R's predefined colors()
+demo(hclColors)               Exploration of hcl() space
+
+Demos in package ‘graphics’:
+
+demo(Hershey)                 Tables of the characters in the Hershey vector
+                        fonts
+demo(Japanese)                Tables of the Japanese characters in the
+                        Hershey vector fonts
+demo(graphics)                A show of some of R's graphics capabilities
+demo(image)                   The image-like graphics builtins of R
+demo(persp)                   Extended persp() examples
+demo(plotmath)                Examples of the use of mathematics annotation
+
+Demos in package ‘lattice’:
+
+demo(intervals)               Confidence intervals
+demo(labels)                  Labels in lattice displays
+demo(lattice)                 Lattice Demos
+demo(panel)                   Custom panel functions
+
+Demos in package ‘stats’:
+
+demo(glm.vr)                  Some glm() examples from V&R with several
+                        predictors
+demo(lm.glm)                  Some linear and generalized linear modelling
+                        examples from `An Introduction to Statistical
+                        Modelling' by Annette Dobson
+demo(nlm)                     Nonlinear least-squares using nlm()
+demo(smooth)                  `Visualize' steps in Tukey's smoothers
+
+Demos in package ‘tcltk’:
+
+demo(tkcanvas)                Creates a canvas widget showing a 2-D plot with
+                        data points that can be dragged with the mouse.
+demo(tkdensity)               Interactive density plots.
+demo(tkfaq)                   Show long file, the R FAQ, using scrollbared
+                        window.
+demo(tkttest)                 t-test example of GUI interface to a function
+                        call.
