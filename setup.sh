@@ -1,7 +1,20 @@
 #!/bin/bash  
 
 #  only need to run this script with the command (do not type the #)
-#  bash setup-new.sh
+#  bash setup.sh
+
+
+
+
+sudo apt-get update
+
+#sudo apt-get install libxml2-dev libxslt-dev python-dev
+
+echo "Install Rscript"
+
+sudo apt-get -y install r-base r-base-core r-base-html 
+sudo apt-get -y install libmagickwand-dev
+
 
 
 echo "First checking the Python version"
@@ -85,7 +98,12 @@ echo "Installing a few extra packages"
 
 
 
+
+pip install Wand
+
 pip install matplotlib
+
+pip install pymatbridge
 
 pip install scikit-learn
 
