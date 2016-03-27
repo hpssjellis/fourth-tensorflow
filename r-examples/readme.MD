@@ -8,3 +8,6 @@ first loads the rScript file to show you what is going to be run
 3rd shows the output
 
 13-16 have issues at the moment.
+
+
+and 21-24 have issues
