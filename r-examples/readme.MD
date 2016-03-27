@@ -9,5 +9,12 @@ first loads the rScript file to show you what is going to be run
 
 13-16 have issues at the moment.
 
+Demos in package ‘lattice’:
+
+.
+.
+.
 
 and 21-24 have issues
+
+Demos in package ‘tcltk’:
