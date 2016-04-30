@@ -24,6 +24,13 @@ https://youtu.be/ReaxoSIM5XQ
 
 
 
+[![Instructional video of installing Tensorflow on Cloud9](http://img.youtube.com/vi/ReaxoSIM5XQ/0.jpg)](https://youtu.be/ReaxoSIM5XQ)
+
+
+
+
+
+
 
 
 
