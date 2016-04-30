@@ -5,6 +5,13 @@ Forth attempt at making tensorflow easier for windows users
 
 
 
+April 29, 2016
+
+Looking into including Tprch and OpenAI
+
+
+
+
 
 
 An attempt to setup tensorflow deep learning with udacity online instead of on your own computer
