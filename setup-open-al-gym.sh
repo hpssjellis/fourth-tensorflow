@@ -15,5 +15,5 @@ pip install gym # minimal install may try the next line instead
 
 #pip install gym[all]
 
-echo"See the docs at https://gym.openai.com/docs"
+echo "See the docs at https://gym.openai.com/docs"
 
