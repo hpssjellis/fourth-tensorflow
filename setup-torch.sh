@@ -30,8 +30,9 @@ git clone https://github.com/torch/demos
 cd /home/ubuntu/workspace
 
 echo "try running the command below from a terminal"
-echo "th ~/torch/demos/train-on-cifar/train-on-cifar.lua"
 echo "Problem is it will take up too much space for cloud9 wthout paying a monthly fee :<"
+echo ""
+echo "th ~/torch/demos/train-on-cifar/train-on-cifar.lua"
 
 
 
