@@ -7,14 +7,22 @@ Forth attempt at making tensorflow easier for windows users
 
 April 29, 2016
 
-Looking into including Tprch and OpenAI
+Looking into including Torch and Open-Al-Gym
+
+Torch seems to install, but useing the demo installs too large a file to work with the free version of Cloud9, so you would have to pay a small monthly fee.
+
+Open-Al-gym seems to install and I am working on how to use it.
 
 
 
 
 
 
-An attempt to setup tensorflow deep learning with udacity online instead of on your own computer
+An attempt to setup tensorflow deep learning with udacity online instead of on your own computer, This is my forth attempt and now includes the R library. An installation video of all but the recent stuff is at
+
+https://youtu.be/ReaxoSIM5XQ
+
+
 
 
 
