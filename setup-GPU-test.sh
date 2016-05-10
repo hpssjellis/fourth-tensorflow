@@ -89,8 +89,10 @@ tar -zxf cudnn-7.0-linux-x64-v4.0-rc.tgz
 cd cuda
 sudo cp lib64/* /usr/local/cuda/lib64/
 sudo cp include/cudnn.h /usr/local/cuda/include/
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/ubuntu/workspace/cuda/lib64" export CUDA_HOME=/home/ubuntu/workspace/cuda
 
 
+cd ..
 sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
 
 
