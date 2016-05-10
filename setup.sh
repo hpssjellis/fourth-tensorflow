@@ -137,6 +137,8 @@ pip install git+git://github.com/tensorflow/skflow.git
 # http://blog.davidvassallo.me/2016/03/18/lessons-learned-installing-skflow/
 pip install dask[dataframe]
 
+# note swkflow is installed with tensorflow 0.8 so much of this code may not6 be needed.
+
 
 
 echo "------------------------Tensorflow installed--------------------------------------"
