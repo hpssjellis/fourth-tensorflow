@@ -77,6 +77,21 @@ pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensor
 #export PATH=/home/ubuntu/workspace/tensorflow/bin:$PATH
 
 
+# Ubuntu/Linux 64-bit, GPU enabled. Requires CUDA toolkit 7.5 and CuDNN v4.  For
+# other versions, see "Install from sources" below.
+# sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
+
+
+#tar -zxf cudnn-7.0-linux-x64-v4.0-rc.tgz 
+#cd cuda
+#sudo cp lib64/* /usr/local/cuda/lib64/
+#sudo cp include/cudnn.h /usr/local/cuda/include/
+
+
+
+
+
+
 
 
 echo "--------------------------------------------------------------"
