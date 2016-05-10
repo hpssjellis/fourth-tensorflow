@@ -138,6 +138,8 @@ pip install git+git://github.com/tensorflow/skflow.git
 pip install dask[dataframe]
 
 # note swkflow is installed with tensorflow 0.8 so much of this code may not6 be needed.
+# then use skflow by using this line
+#import tensorflow.contrib.learn as skflow
 
 
 
