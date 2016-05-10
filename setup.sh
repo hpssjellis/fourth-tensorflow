@@ -16,6 +16,10 @@ sudo apt-get -y install r-base r-base-core r-base-html
 sudo apt-get -y install libmagickwand-dev
 
 
+# for skflow
+apt-get install libblas-dev liblapack-dev
+
+
 
 echo "First checking the Python version"
 python --version
@@ -128,6 +132,10 @@ pip install pymatbridge
 pip install scikit-learn
 
 pip install git+git://github.com/tensorflow/skflow.git
+
+# skflow may need the following
+# http://blog.davidvassallo.me/2016/03/18/lessons-learned-installing-skflow/
+pip install dask[dataframe]
 
 
 
