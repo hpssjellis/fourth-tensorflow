@@ -33,4 +33,4 @@ Note with the tensoerflow examples you may have to change the /tmp file path so 
 
 
 
-P.S. always close of your run windows as some of them may have processes still running that then stops new processes from running.
+P.S. always close your run windows as some of them may have processes still running that then stops new processes from running.
