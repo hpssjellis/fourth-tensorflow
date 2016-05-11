@@ -2,14 +2,14 @@
 Forth attempt at making tensorflow easier for windows users
 
 
-May 10, 2016
+Update May 10, 2016
 
 Moved setup files to the drafts location until they are ready to be integrated into the main setup.sh file. Look there for any GPU, torch, Open-Al-Gym setups.
 
+-----------------------------------------------------------
 
 
-
-An attempt to setup tensorflow deep learning with udacity online instead of on your own computer, This is my forth attempt and now includes the R library. An installation video of all but the recent stuff is at
+This is a working setup of tensorflow deep learning with udacity online instead of on your own computer, This is my forth attempt and now includes the R library. An installation video of all but the recent stuff is at
 
 https://youtu.be/ReaxoSIM5XQ
 
