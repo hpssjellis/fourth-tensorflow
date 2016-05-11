@@ -136,6 +136,8 @@ pip install pymatbridge
 
 pip install scikit-learn
 
+pip install pandas
+
 
 
 
