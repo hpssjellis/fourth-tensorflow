@@ -169,9 +169,16 @@ echo ". "
 
 git clone --recurse-submodules https://github.com/tensorflow/tensorflow
 
-echo "Make a quick link to udacity files" 
+echo "Make a quick link to udacity example files" 
 
 ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/udacity /home/ubuntu/workspace/udacityLink
+
+
+echo "Make a quick link to skflow example files" 
+
+ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/skflow /home/ubuntu/workspace/skflow-examples/skflow-link
+
+
 
 
 
