@@ -136,11 +136,15 @@ pip install pymatbridge
 
 pip install scikit-learn
 
-pip install git+git://github.com/tensorflow/skflow.git
+
+
+
+# might be installed with tensorflow
+#pip install git+git://github.com/tensorflow/skflow.git
 
 # skflow may need the following
 # http://blog.davidvassallo.me/2016/03/18/lessons-learned-installing-skflow/
-pip install dask[dataframe]
+#pip install dask[dataframe]
 
 # note swkflow is installed with tensorflow 0.8 so much of this code may not6 be needed.
 # then use skflow by using this line
