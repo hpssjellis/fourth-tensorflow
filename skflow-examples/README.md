@@ -11,9 +11,9 @@ or from the cloud9 point of view
 tensorflow/tensorflow/examples/skflow
 
 
-Tutorials at 
+A really great tutorial is at 
 
-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
+http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 
 
 
