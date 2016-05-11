@@ -11,3 +11,10 @@ or from the cloud9 point of view
 tensorflow/tensorflow/examples/skflow
 
 
+Tutorials at 
+
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
+
+
+
+
