@@ -1,5 +1,4 @@
-# from https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
-
+#  http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 
 import tensorflow.contrib.learn as skflow
 from sklearn import datasets, metrics
@@ -9,5 +8,3 @@ classifier = skflow.TensorFlowDNNClassifier(hidden_units=[10, 20, 10], n_classes
 classifier.fit(iris.data, iris.target)
 score = metrics.accuracy_score(iris.target, classifier.predict(iris.data))
 print("Accuracy: %f" % score)
-
-
