@@ -2,18 +2,9 @@
 Forth attempt at making tensorflow easier for windows users
 
 
+May 10, 2016
 
-
-
-April 29, 2016
-
-Looking into including Torch and Open-Al-Gym
-
-Torch seems to install, but useing the demo installs too large a file to work with the free version of Cloud9, so you would have to pay a small monthly fee.
-
-Open-Al-gym seems to install and I am working on how to use it.
-
-
+Moved setup files to the drafts location until they are ready to be integrated into the main setup.sh file. Look there for any GPU, torch, Open-Al-Gym setups.
 
 
 
@@ -77,6 +68,8 @@ http://rocksetta.com/tensorflow-teacher/
 
 
 By Jeremy Ellis Maker of rocksetta.com 
+
+Use at your own risk
 
 twitter @rocksetta
 
