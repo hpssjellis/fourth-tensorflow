@@ -181,7 +181,11 @@ echo "Make a quick link to skflow example files"
 ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/skflow /home/ubuntu/workspace/skflow-examples/skflow-link
 
 
+echo "Download dbpedia since it presently does not load"
 
+
+
+wget https://googledrive.com/host/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M/dbpedia_csv.tar.gz -P /home/ubuntu/workspace/skflow-examples/dbpedia_data
 
 
 echo "enter   deactivate    to get out of the virtual enviroment"
