@@ -131,7 +131,10 @@ pip install pymatbridge
 
 pip install scikit-learn
 
-pip install git+git://github.com/tensorflow/skflow.git
+#pip install git+git://github.com/tensorflow/skflow.git
+
+pip install scikit-cuda
+
 
 
 
