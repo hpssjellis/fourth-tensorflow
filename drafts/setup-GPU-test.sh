@@ -45,7 +45,7 @@ echo "."
 
 echo "Installing PIP and Virtual Environment"
 
-sudo apt-get install python-pip python-dev python-virtualenv python-scipy
+sudo apt-get -y install python-pip python-dev python-virtualenv python-scipy
 
 echo "--------------------------------------------------------------"
 echo ". "
