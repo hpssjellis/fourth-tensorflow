@@ -130,6 +130,8 @@ echo "Installing a few extra packages"
 
 pip install Wand
 
+pip install numpy
+
 pip install matplotlib
 
 pip install pymatbridge
