@@ -175,12 +175,16 @@ git clone --recurse-submodules https://github.com/tensorflow/tensorflow
 
 echo "Make a quick link to udacity example files" 
 
-ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/udacity /home/ubuntu/workspace/udacityLink
+ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/udacity /home/ubuntu/workspace/udacity-Link
 
 
 echo "Make a quick link to skflow example files" 
 
 ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/skflow /home/ubuntu/workspace/skflow-examples/skflow-link
+
+echo "Make a link to the actual installed pip tensorflow not just the github clone"
+
+ls -s /home/ubuntu//virtual-tf/lib/python2.7/site-packages/tensorflow /home/ubuntu/workspace/pip-tensorflow-link
 
 
 echo "Download dbpedia since it presently does not load"
