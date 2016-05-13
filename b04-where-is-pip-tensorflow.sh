@@ -7,6 +7,7 @@
 echo "The tensorflow github site has been cloned in the repositories above"
 echo "But the actual installed pip tensorflow package is at "
 echo "ls /home/ubuntu//virtual-tf/lib/python2.7/site-packages/tensorflow"
+echo ""
 
 ls /home/ubuntu//virtual-tf/lib/python2.7/site-packages/tensorflow
 
