@@ -192,15 +192,17 @@ echo "Make a link to the actual installed pip tensorflow not just the github clo
 ln -s /home/ubuntu//virtual-tf/lib/python2.7/site-packages/tensorflow /home/ubuntu/workspace/pip-tensorflow-link
 
 
-echo "Download dbpedia since it presently does not load"
-
+#echo "Download dbpedia since it presently does not load"
+#fixed with latest build
 #wget https://googledrive.com/host/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M/dbpedia_csv.tar.gz -P /home/ubuntu/workspace/skflow-examples/dbpedia_data
 
 
-wget https://googledrive.com/host/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M/dbpedia_csv.tar.gz
-tar xvf dbpedia_csv.tar.gz -C /home/ubuntu/workspace/skflow-examples/dbpedia-data
+#wget https://googledrive.com/host/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M/dbpedia_csv.tar.gz
+#tar xvf dbpedia_csv.tar.gz -C /home/ubuntu/workspace/skflow-examples/dbpedia-data
 
-rm dbpedia_csv.tar.gz
+#rm dbpedia_csv.tar.gz
+
+
 
 
 
