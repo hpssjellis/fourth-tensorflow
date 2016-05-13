@@ -34,3 +34,16 @@ Note with the tensoerflow examples you may have to change the /tmp file path so 
 
 
 P.S. always close your run windows as some of them may have processes still running that then stops new processes from running.
+
+
+
+
+
+not yet installed
+
+cuda cudnn
+ls -l /path/to/cuda/lib/libcud*
+
+python version
+
+python -c "import tensorflow; print(tensorflow.__version__)"
