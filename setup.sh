@@ -50,7 +50,13 @@ echo "."
 
 echo "Installing PIP and Virtual Environment"
 
-sudo apt-get -y install python-pip python-dev python-virtualenv python-scipy
+#sudo apt-get -y install python-pip python-dev python-virtualenv python-scipy
+
+# above has issue with numpy???
+
+sudo apt-get -y install python-pip python-dev python-virtualenv
+
+
 
 echo "--------------------------------------------------------------"
 echo ". "
@@ -63,11 +69,40 @@ echo "--------------------------------------------------------------"
 echo ". "
 
 
+
+
+
+
+
 echo "Activate the environemtn use deactivate to get your cursor back"
 source ~/virtual-tf/bin/activate 
 
 printf "\n\nsource ~/virtual-tf/bin/activate "  >> ~/.profile
 printf "\necho 'enter   deactivate    to get out of the virtual enviroment'"  >> ~/.profile
+
+
+
+echo "Installing a few extra packages"
+
+
+
+
+pip install Wand
+
+pip install numpy
+
+pip install scipy
+
+pip install matplotlib
+
+pip install pymatbridge
+
+pip install scikit-learn
+
+pip install pandas
+
+
+
 
 
 echo "--------------------------------------------------------------"
@@ -130,22 +165,7 @@ echo "--------------------------------------------------------------"
 echo ". "
 
 
-echo "Installing a few extra packages"
 
-
-
-
-pip install Wand
-
-pip install numpy
-
-pip install matplotlib
-
-pip install pymatbridge
-
-pip install scikit-learn
-
-pip install pandas
 
 
 
