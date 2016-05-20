@@ -3,7 +3,8 @@
 #  only need to run this script with the command (do not type the #)
 #  bash setup.sh
 
-
+# for error checking really good to run (without the # comment)
+#bash setup.sh 2>&1 | tee x-output-errors.txt
 
 
 sudo apt-get update
