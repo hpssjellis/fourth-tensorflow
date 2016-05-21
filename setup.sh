@@ -54,7 +54,8 @@ echo "Installing PIP and Virtual Environment"
 
 # above has issue with numpy???
 
-sudo apt-get -y install python-pip python-dev python-virtualenv
+sudo apt-get -y install python-pip python-dev python-virtualenv libblas-dev liblapack-dev libatlas-base-dev gfortran
+
 
 
 
@@ -83,6 +84,7 @@ printf "\necho 'enter   deactivate    to get out of the virtual enviroment'"  >>
 
 
 echo "Installing a few extra packages"
+
 
 
 
