@@ -88,12 +88,13 @@ echo "Installing a few extra packages"
 
 #note still having issues with numpy not installing from pip and building from scratch
 #tried several methods, perhaps try
+#should  Install dask, numpy, and pandas
 pip install dask[dataframe]
 
 
 pip install Wand
 
-pip install numpy
+#pip install numpy
 
 pip install scipy
 
@@ -103,7 +104,7 @@ pip install pymatbridge
 
 pip install scikit-learn
 
-pip install pandas
+#pip install pandas
 
 
 
