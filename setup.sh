@@ -86,7 +86,9 @@ printf "\necho 'enter   deactivate    to get out of the virtual enviroment'"  >>
 echo "Installing a few extra packages"
 
 
-
+#note still having issues with numpy not installing from pip and building from scratch
+#tried several methods, perhaps try
+pip install dask[dataframe]
 
 
 pip install Wand
