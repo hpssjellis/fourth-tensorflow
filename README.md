@@ -3,6 +3,11 @@ Forth attempt at making tensorflow easier for windows users
 
 .
 
+
+Update Oct14, 2016.
+
+Entered new 0.11 verison of tensorflow. Presently this is still a really long installation. Takes about 1 hour on cloud9. 
+
 Update May 10, 2016
 
 Moved setup files to the drafts location until they are ready to be integrated into the main setup.sh file. Look there for any GPU, torch, Open-Al-Gym setups.
