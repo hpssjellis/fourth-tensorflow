@@ -1,5 +1,5 @@
 # forth-tensorflow
-Forth attempt at making tensorflow easier for windows users
+Forth attempt at making tensorflow easier for windows users by loading working examples onto http://c9.io  (cloud9)
 
 .
 
