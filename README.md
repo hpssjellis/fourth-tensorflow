@@ -4,6 +4,12 @@ Forth attempt at making tensorflow easier for windows users
 .
 
 
+
+Update Oct19, 2016
+
+Just finally got a deeplearning model working from a webbrowser. shut down notebook and run keras-serve.php in the keras-php-server folder. then load the keras-serve.html file and submit the form request to the keras-serve.py python program. Results get displayed in the web browser all at once so you have a bit of a wait to get the data.
+
+
 Update Oct14, 2016.
 
 Entered new 0.11 verison of tensorflow. Presently this is still a really long installation. Takes about 1 hour on cloud9. 
