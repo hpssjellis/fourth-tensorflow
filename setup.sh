@@ -216,7 +216,7 @@ echo ". "
 
 #deactivate
 
-git clone --recurse-submodules https://github.com/tensorflow/tensorflow
+#git clone --recurse-submodules https://github.com/tensorflow/tensorflow
 
 echo "Make a quick link to udacity example files" 
 
@@ -225,7 +225,7 @@ ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/udacity /home/ubuntu
 
 echo "Make a quick link to skflow example files" 
 
-ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/skflow /home/ubuntu/workspace/skflow-examples/skflow-link
+ln -s /home/ubuntu/workspace/tensorflow/tensorflow/examples/learn /home/ubuntu/workspace/scikit-learn-link
 
 echo "Make a link to the actual installed pip tensorflow not just the github clone"
 
