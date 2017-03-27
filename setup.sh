@@ -83,6 +83,14 @@ printf "\necho 'enter   deactivate    to get out of the virtual enviroment'"  >>
 
 
 
+
+#a strange fix that I do not really trust, but fixes an issue with
+#no module named packaging.version
+
+sudo apt-get purge python-pip python-setuptools
+curl -O https://bootstrap.pypa.io/get-pip.py
+sudo python get-pip.py
+
 echo "Installing a few extra packages"
 
 
