@@ -23,11 +23,11 @@ Moved setup files to the drafts location until they are ready to be integrated i
 
 This is a working setup of tensorflow deep learning with udacity online instead of on your own computer, This is my forth attempt and now includes the R library. An installation video of all but the recent stuff is at
 
-https://youtu.be/ReaxoSIM5XQ
+https://youtu.be/zRZJHMFL0p4
+https://www.youtube.com/watch?v=zRZJHMFL0p4
 
 
-
-[![Instructional video of installing Tensorflow on Cloud9](http://img.youtube.com/vi/ReaxoSIM5XQ/0.jpg)](https://youtu.be/ReaxoSIM5XQ)
+[![Particle.io Websockets for the Photon ](http://img.youtube.com/vi/zRZJHMFL0p4/0.jpg)](https://youtu.be/zRZJHMFL0p4)
 
 
 
