@@ -31,3 +31,6 @@ for step in xrange(201):
         print(step, sess.run(W), sess.run(b))
 
 # Learns best fit is W: [0.1], b: [0.3]
+
+
+#
